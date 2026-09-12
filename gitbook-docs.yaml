@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: Project Reality Manual Arabic
+
+structure:
+  - type: space
+    key: manual
+    title: Project Reality Manual
+    path: ar
+    default: true
+    content:
+      directory: ./
